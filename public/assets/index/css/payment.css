@@ -1,0 +1,43 @@
+.job-container {
+    width: 960px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.payment-wrap {
+    width: 612px;
+    height: auto;
+    margin: 0px auto;
+    /*    margin-left: 708px;*/
+    font-size: 0px;
+}
+
+.payment-box {
+    display: inline-block;
+    width: 296px;
+    height: 190px;
+    border: 1px solid #e8e8e8;
+    font-size: 0px;
+    margin: 5px 5px;
+    vertical-align: middle;
+}
+.head-tips {
+    font-size: 18px;
+    color: #fb4747;
+    margin: 34px 0 20px 40px;
+}
+
+.payment-cnt {
+    font-size: 14px;
+    color: #666;
+    text-align: left;
+    width: 220px;
+    margin: 0 auto;
+}
+
+.payment-box:nth-child(1) {
+    margin-top: 0px;
+}
+.payment-box:nth-child(2) {
+    margin-top: 0px;
+}

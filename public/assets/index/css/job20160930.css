@@ -1,0 +1,52 @@
+
+.jobMenuFixed {
+    position: fixed;
+    top: 70px;
+}
+
+.job_header {
+    width: 960px;
+    margin: 70px auto 70px auto;
+}
+
+.job_header a {
+    padding: 5px 0;
+    /*margin-right: 85px*/
+}
+
+.job_header a.active {
+    border-bottom: 2px solid #ff5050;
+}
+
+.job_detail_info > h2 {
+    color: #ff5050;
+}
+
+.col-xs-9 {
+    margin: 0 auto;
+    float: none;
+}
+
+.job_main {
+    /*display: table;*/
+    width: 900px;
+    margin: 0px auto 80px auto;
+}
+
+.job-container {
+    width: 960px;
+    height: auto;
+    margin: 0 auto 80px auto;
+}
+
+.marginbottom0 {
+    margin-bottom: 0;
+}
+
+.tb-center{
+    display: table;
+    margin: 0 auto;
+}
+.tb-center a{
+    margin: 0px 30px;
+}

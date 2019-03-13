@@ -1,0 +1,33 @@
+.job-container {
+  width: 960px;
+  height: auto;
+  margin: 0 auto;
+}
+.culture-wrap {
+  width: 610px;
+  height: auto;
+  border: 1px solid #e8e8e8;
+  margin: 0 auto;
+  font-size: 0px;
+  text-align: center;
+}
+.culture-head {
+  color: #fb4747;
+  font-size: 22px;
+  margin: 46px auto;
+}
+.culture-box {
+  width: 320px;
+  height: auto;
+  margin: 0 auto 46px;
+  font-size: 0px;
+}
+.culture-title {
+  font-size: 16px;
+  color: #fb4747;
+  margin-bottom: 16px;
+}
+.culture-cnt {
+  font-size: 14px;
+  color: #666;
+}
